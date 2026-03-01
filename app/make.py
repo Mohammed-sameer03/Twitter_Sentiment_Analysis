@@ -1,0 +1,1 @@
+print('hello i am sameer and i am gonna be top 1% one day')

@@ -19,3 +19,5 @@ if st.button("Predict"):
     pred = np.argmax(logits.numpy(), axis=1)[0]
     sentiment = "Positive" if pred == 1 else "Negative"
     st.success(f"Sentiment: {sentiment}")
+
+print('sameer')
